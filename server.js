@@ -14,7 +14,7 @@ const conexao = mysql.createConnection({
 
     user: 'root',
 
-    password: '1603',
+    password: 'senha mysql',
 
     database: 'cadastro'
 
